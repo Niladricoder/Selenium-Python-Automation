@@ -10,8 +10,8 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Provider:** Coursera
 - **Authorized by:** Madecraft
 - **Completion Date:** September 10, 2026
-- **Certificate:** [PythonForAutomation.pdf](./PythonForAutomation.pdf)
-- **Verification:** [Verify Certificate](https://coursera.org/verify/R8545Q37W8D4)
+- **Certificate:** [PythonForAutomation.pdf](./Python%20for%20Automation.pdfSelenium-Python-Automation/Certification/Python for Automation.pdf)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/JMTHGLSORBHN)
 
 ---
 
@@ -21,8 +21,8 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Provider:** Coursera
 - **Authorized by:** Whizlabs
 - **Completion Date:** September 19, 2026
-- **Certificate:** [Selenium WebDriver with Python.pdf](./Selenium%20WebDriver%20with%20Python.pdf)
-- **Verification:** [Verify Certificate](https://coursera.org/verify/AETE09GY8J33)
+- **Certificate:** [Selenium WebDriver with Python.pdf](./Selenium%20WebDriver%20with%20Python.pdfSelenium-Python-Automation/Certification/Selenium WebDriver with Python.pdf)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/M0OV8GZ16I2V)
 
 ---
 
@@ -31,8 +31,8 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Course:** Test Automation with Playwright (Python) & Robot Framework
 - **Provider:** Coursera
 - **Completion Date:** September 26, 2026
-- **Certificate:** [TestAutomationWithPlaywright&RobotFramework.pdf](./TestAutomationWithPlaywright%26RobotFramework.pdf)
-- **Verification:** [Verify Certificate](https://coursera.org/verify/YDH4PBCB8JV3)
+- **Certificate:** [TestAutomationWithPlaywright&RobotFramework.pdf](./Test%20Automation%20with%20Playwright%20(Python)%20&%20Robot%20Framework.pdf)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/FKMKXZD4RKL3)
 
 ---
 
